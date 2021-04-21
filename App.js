@@ -79,7 +79,7 @@ export default function App() {
           <Text style={styles.itemText}>Estado: {cepUser.uf}</Text>
           <Text style={styles.itemText}>Cod. IBGE: {cepUser.ibge}</Text>
         </View>
-      )}
+      )} 
     </SafeAreaView>
   );
 }
